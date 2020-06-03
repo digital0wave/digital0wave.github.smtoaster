@@ -15,5 +15,5 @@ Documents include hardware configuraton, control process, and source codes for H
 
 ├── Doc    # Report and design specs
 
-└── Codes       # Source code for the firmware
+└── Codes       # Source codes for the firmware
   
