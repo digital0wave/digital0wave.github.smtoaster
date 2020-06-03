@@ -10,8 +10,10 @@ Documents include hardware configuraton, control process, and source codes for H
 ![](Doc/SMToaster_1.JPG)
 
 
-## Repo # Directory pertaining to the neural net
+## Repo 
 ├── README.md # This file
+
 ├── Doc    # Report and design specs
+
 └── Codes       # Source code for the firmware
   
