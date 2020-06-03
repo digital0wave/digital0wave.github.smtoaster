@@ -7,7 +7,7 @@ It has sensors that detect colour on bread and controls the toastness set by use
 Using HTTP communication, the smart toaster provides users with setting and operating it remotely.
 Documents include hardware configuraton, control process, and source codes for HTTP communication.
 
-![](Doc/SMToaster_1.JPG)
+![](Doc/https://github.com/digital0wave/digital0wave.github.smtoaster/blob/master/Doc/SMToaster_1.jpg.JPG)
 
 
 ## Repo 
